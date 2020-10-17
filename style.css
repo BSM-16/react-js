@@ -1,0 +1,12 @@
+h4,h5,h6
+{
+	font-family: chiller;
+	font-size: 22px;
+	color: orange;
+}
+h1,h5
+{
+	font-size: 40px;
+	color: green;
+	text-align: center;
+}
